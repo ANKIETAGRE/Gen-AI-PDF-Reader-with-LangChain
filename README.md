@@ -11,7 +11,7 @@ An intelligent PDF analysis application powered by **LangChain** and **Large Lan
 * 🔍 Perform contextual content analysis
 * ⚡ Modular and easy to extend
 
----
+--
 
 ## 🛠️ Tech Stack
 

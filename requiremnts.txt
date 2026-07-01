@@ -1,4 +1,4 @@
-langchain
+ langchain
 ipykernel
 langchain_community
 langchain-google-genai
